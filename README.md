@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DucksUseComputers
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Coding
